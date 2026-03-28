@@ -1,0 +1,15 @@
+No hay código significativo que generar para un archivo `.gitkeep` ya que su propósito es simplemente mantener el directorio en el control de versiones de Git.
+
+Sin embargo, puedo ofrecerte un ejemplo de cómo podría verse el contenido de un archivo `.gitkeep`:
+
+```
+# Este archivo se utiliza para mantener el directorio en el control de versiones de Git
+# No contiene código significativo
+```
+
+O simplemente, un archivo `.gitkeep` puede estar vacío. 
+
+Para tu caso específico, el contenido del archivo `tests/e2e/.gitkeep` sería:
+
+```
+```
