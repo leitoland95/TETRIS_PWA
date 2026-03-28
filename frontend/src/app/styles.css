@@ -1,0 +1,14 @@
+No 
+
+Pero te muestro un ejemplo
+```css
+.App {
+  text-align: center;
+}
+
+#tetris-canvas {
+  border: 1px solid black;
+}
+
+/* Agrega más estilos según sea necesario */
+```
