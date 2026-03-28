@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+sqlalchemy
+alembic
+python-dotenv
