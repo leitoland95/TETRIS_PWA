@@ -1,0 +1,20 @@
+{
+  "name": "tetris-pwa",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.0.1",
+    "eslint": "^8.23.0",
+    "jest": "^28.0.3",
+    "vite": "^3.0.7"
+  }
+}
